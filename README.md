@@ -31,5 +31,5 @@ BTech CSE (Data Science) student with a strong interest in data analysis and ins
   <img width="14" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="32" alt="excel" />
   <img width="14" />
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="32" alt="powerpoint" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="32" alt="powerbi" />
 </div>
