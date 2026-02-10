@@ -1,12 +1,12 @@
 ## Hi, I’m Ishita 👋
 
 🎓 BTech CSE (Data Science) student  
-📊 Interested in data analysis & insights  
+📊 Focused on data analysis and insight generation  
 
 **Skills:**  
 Excel • PowerPoint • Python • Java • C • Hadoop  
 
-**Strengths:**  
-Analytical thinking • Clear communication  
+**Core Strengths:**  
+Analytical thinking • Effective communication  
 
-🌱 Currently learning and building in Data Science
+🌱 Currently learning and building in the field of Data Science
