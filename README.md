@@ -15,7 +15,7 @@ BTech CSE (Data Science) student with a strong interest in data analysis and ins
 ✨ Learning through hands-on data exploration<br>
 📚 Currently learning Python for Data Science & Big Data concepts<br>
 🎯 Goal: Build meaningful, data-driven projects<br>
-🎲 Fun fact: I enjoy simplifying complex data
+🎲 Fun fact: I enjoy simplifying complex data and reading novels
 </p>
 
 ---
