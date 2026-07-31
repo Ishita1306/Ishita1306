@@ -6,111 +6,78 @@
 
 *"Turning Data into Insights"*
 
-<br />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=40&lines=B.Tech+CSE+(Data+Science)+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Big+Data" alt="Typing SVG" />
 </a>
 
 </div>
 
-<br />
-
 ---
-
-<br />
 
 <div align="center">
 
-### 📌 About Me
+## About Me
 
-<p align="center">
-I am a Computer Science & Engineering student specializing in Data Science at Lovely Professional University.<br />
-My core focus lies in data analytics, exploratory analysis, and creating business intelligence dashboards<br />
-that convert raw datasets into clear, actionable metrics.
-</p>
+I am a Computer Science & Engineering student specializing in Data Science at Lovely Professional University. My core focus lies in data analytics, exploratory analysis, and creating business intelligence dashboards that convert raw datasets into clear, actionable metrics.
 
-<p align="center">
-Proficient in Python, SQL, Power BI, and Excel, I approach analytical challenges with methodical precision.<br />
-I am actively developing practical projects and refining my technical skills to prepare for Data Analyst internship opportunities.
-</p>
+Proficient in Python, SQL, Power BI, and Excel, I approach analytical challenges with methodical precision. I am actively developing practical projects and refining my technical skills to prepare for Data Analyst internship opportunities.
 
 </div>
 
-<br />
-
 ---
-
-<br />
 
 <div align="center">
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 #### Programming Languages
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java&theme=light" alt="Python, Java" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-<br />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java&theme=light" alt="Python, Java" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 
 #### Data Analysis
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-</p>
-
-<br />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+&nbsp;
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
 
 #### Visualization & Reporting
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-</p>
-
-<br />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
 
 #### Databases & Big Data
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HBase-D22128?style=flat-square&logo=apache&logoColor=white" alt="HBase" />
-</p>
-
-<br />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" />
+&nbsp;
+<img src="https://img.shields.io/badge/HBase-D22128?style=flat-square&logo=apache&logoColor=white" alt="HBase" />
 
 #### Developer Tools
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, VS Code" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, VS Code" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 
 </div>
 
-<br />
-
 ---
-
-<br />
 
 <div align="center">
 
-### 📚 Currently Learning
+## Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python_for_Data_Analysis-85%25_Proficiency-7C3AED?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -128,15 +95,11 @@ I am actively developing practical projects and refining my technical skills to 
 
 </div>
 
-<br />
-
 ---
-
-<br />
 
 <div align="center">
 
-### 🚀 Featured Projects
+## Featured Projects
 
 <br />
 
@@ -160,7 +123,7 @@ I am actively developing practical projects and refining my technical skills to 
       <h4 align="center">📊 Sales Dashboard</h4>
       <p align="center"><i>(Interactive Visual Reporting)</i></p>
       <p>Interactive sales analysis dashboard built to provide visual breakdowns of product performance, sales volumes, and regional metrics.</p>
-      <p align="center">
+      <p.align="center">
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
       </p>
@@ -189,23 +152,11 @@ I am actively developing practical projects and refining my technical skills to 
 
 </div>
 
-<br />
-
 ---
-
-<br />
 
 <div align="center">
 
-### 📊 GitHub Activity & Statistics
-
-<br />
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishita1306&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=6B7280" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita1306&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=6B7280" alt="Top Languages" />
-</p>
+## GitHub Activity
 
 <br />
 
@@ -221,11 +172,7 @@ I am actively developing practical projects and refining my technical skills to 
 
 </div>
 
-<br />
-
 ---
-
-<br />
 
 <div align="center">
 
