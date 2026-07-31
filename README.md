@@ -19,7 +19,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/Ishita1306?color=7c3aed&style=flat-square&logo=github" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Ishita1306?color=7c3aed&style=flat-square&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repos-personal/Ishita1306?color=7c3aed&style=flat-square&logo=github&label=Repositories" alt="Repositories" />
 </p>
 
 </div>
@@ -28,27 +28,27 @@
 
 ### 📌 About Me
 
-I am a Computer Science & Engineering student specializing in Data Science at Lovely Professional University. I focus on data analytics, exploratory data analysis, and building business intelligence dashboards that transform raw numbers into actionable insights.
+I am a Computer Science & Engineering student specializing in Data Science at Lovely Professional University. My core focus lies in data analytics, exploratory analysis, and creating business intelligence dashboards that convert raw data into clear, actionable metrics.
 
-I work regularly with Python, SQL, Power BI, and Excel. I'm actively building hands-on projects and strengthening my analytical skills in preparation for Data Analyst internship opportunities.
+Proficient in Python, SQL, Power BI, and Excel, I approach analytical challenges with methodical precision. I am actively developing hands-on projects and refining my technical skills to prepare for Data Analyst internship opportunities.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Programming:**  
+- **Programming Languages:**  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java&theme=light" alt="Python, Java" /></a> &nbsp; <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 
-- **Data Analysis:**  
+- **Data Analysis & Libraries:**  
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> &nbsp; <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
 
-- **Visualization:**  
+- **Visualization & Reporting:**  
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /> &nbsp; <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" /> &nbsp; <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" /> &nbsp; <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
 
 - **Databases & Big Data:**  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" /></a> &nbsp; <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" /> &nbsp; <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" /> &nbsp; <img src="https://img.shields.io/badge/HBase-D22128?style=flat-square&logo=apache&logoColor=white" alt="HBase" />
 
-- **Tools & Environment:**  
+- **Developer Tools:**  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, VS Code" /></a> &nbsp; <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 
 ---
@@ -96,9 +96,9 @@ Modular Python utility scripts focused on dataset preparation, missing value imp
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ishita1306&show_icons=true&theme=default&title_color=7C3AED&text_color=475569&icon_color=6366F1&bg_color=ffffff00&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishita1306&show_icons=true&theme=catppuccin_latte&title_color=7C3AED&text_color=475569&icon_color=6366F1&bg_color=ffffff00&hide_border=true" alt="GitHub Stats" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita1306&layout=compact&theme=default&title_color=7C3AED&text_color=475569&bg_color=ffffff00&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita1306&layout=compact&theme=catppuccin_latte&title_color=7C3AED&text_color=475569&bg_color=ffffff00&hide_border=true" alt="Top Languages" />
 
   <br /><br />
 
@@ -108,11 +108,13 @@ Modular Python utility scripts focused on dataset preparation, missing value imp
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishita1306&theme=github-light&color=7c3aed&hide_border=true" alt="Activity Graph" width="95%" />
 
-  <br /><br />
-
-  <img src="https://raw.githubusercontent.com/Ishita1306/Ishita1306/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-
 </div>
+
+<!-- 
+  Contribution Snake Animation Placeholder:
+  Uncomment below line after running `.github/workflows/snake.yml`
+  <img src="https://raw.githubusercontent.com/Ishita1306/Ishita1306/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+-->
 
 ---
 
