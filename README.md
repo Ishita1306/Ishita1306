@@ -12,88 +12,101 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=40&lines=B.Tech+CSE+(Data+Science)+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Big+Data" alt="Typing SVG" />
 </a>
 
-<br /><br />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishita1306&color=7c3aed&style=flat-square" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Ishita1306?color=7c3aed&style=flat-square&logo=github" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/repos-personal/Ishita1306?color=7c3aed&style=flat-square&logo=github&label=Repositories" alt="Repositories" />
-</p>
-
 </div>
 
+<br />
+
 ---
+
+<br />
 
 <div align="center">
 
 ### 📌 About Me
 
-I am a Computer Science & Engineering student specializing in Data Science at Lovely Professional University. My core focus lies in data analytics, exploratory analysis, and creating business intelligence dashboards that convert raw datasets into clear, actionable metrics.
+<p align="center">
+I am a Computer Science & Engineering student specializing in Data Science at Lovely Professional University.<br />
+My core focus lies in data analytics, exploratory analysis, and creating business intelligence dashboards<br />
+that convert raw datasets into clear, actionable metrics.
+</p>
 
-Proficient in Python, SQL, Power BI, and Excel, I approach analytical challenges with methodical precision. I am actively developing practical projects and refining my technical skills to prepare for Data Analyst internship opportunities.
+<p align="center">
+Proficient in Python, SQL, Power BI, and Excel, I approach analytical challenges with methodical precision.<br />
+I am actively developing practical projects and refining my technical skills to prepare for Data Analyst internship opportunities.
+</p>
 
 </div>
 
+<br />
+
 ---
+
+<br />
 
 <div align="center">
 
 ### 🛠️ Tech Stack
 
 #### Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java&theme=light" alt="Python, Java" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java&theme=light" alt="Python, Java" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
 <br />
 
 #### Data Analysis
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-&nbsp;
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+</p>
 
 <br />
 
 #### Visualization & Reporting
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+</p>
 
 <br />
 
 #### Databases & Big Data
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" />
-&nbsp;
-<img src="https://img.shields.io/badge/HBase-D22128?style=flat-square&logo=apache&logoColor=white" alt="HBase" />
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HBase-D22128?style=flat-square&logo=apache&logoColor=white" alt="HBase" />
+</p>
 
 <br />
 
 #### Developer Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, VS Code" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, VS Code" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
 
 </div>
 
+<br />
+
 ---
+
+<br />
 
 <div align="center">
 
@@ -115,40 +128,72 @@ Proficient in Python, SQL, Power BI, and Excel, I approach analytical challenges
 
 </div>
 
+<br />
+
 ---
+
+<br />
 
 <div align="center">
 
 ### 🚀 Featured Projects
 
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="left">
+      <h4 align="center">🤖 Chippo OS</h4>
+      <p align="center"><i>(Under Active Development)</i></p>
+      <p>AI-powered business simulation platform designed to model operational decision scenarios and explore business data workflows.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Concept-7C3AED?style=flat-square" />
+      </p>
+      <ul>
+        <li>Operational variable simulation</li>
+        <li>Analytical data processing workflows</li>
+        <li>Modular Python script architecture</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" align="left">
+      <h4 align="center">📊 Sales Dashboard</h4>
+      <p align="center"><i>(Interactive Visual Reporting)</i></p>
+      <p>Interactive sales analysis dashboard built to provide visual breakdowns of product performance, sales volumes, and regional metrics.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+      </p>
+      <ul>
+        <li>Transactional data cleaning & structuring</li>
+        <li>DAX measures & KPI scorecards</li>
+        <li>Interactive visual filter layout</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top" align="left">
+      <h4 align="center">🧹 Data Cleaning Scripts</h4>
+      <p align="center"><i>(Automated Wrangling)</i></p>
+      <p>Modular Python utility scripts focused on dataset preparation, missing value imputation, duplicate removal, and automated formatting.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <ul>
+        <li>CSV dataset standardization</li>
+        <li>Missing value & anomaly handling</li>
+        <li>Reusable cleaning pipelines</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-#### 🤖 Chippo OS *(Under Active Development)*
-AI-powered business reality simulation concept designed to model operational decision scenarios and explore business data workflows.
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI Concept](https://img.shields.io/badge/AI_Concept-7C3AED?style=flat-square) ![Data Simulation](https://img.shields.io/badge/Simulation-6366F1?style=flat-square)
-- Business scenario and operational variable simulation
-- Analytical data processing workflows
-- Modular Python script architecture
-
 <br />
-
-#### 📊 Sales Performance Dashboard
-Interactive sales analysis dashboard built to provide clear visual breakdowns of product performance, sales volumes, and regional metrics.
-- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Visualization](https://img.shields.io/badge/Visualization-7C3AED?style=flat-square)
-- Transactional sales dataset cleaning and structuring
-- DAX measures and executive KPI scorecards
-- Interactive visual filter layout
-
-<br />
-
-#### 🧹 Data Cleaning & Pipeline Scripts
-Modular Python utility scripts focused on dataset preparation, missing value imputation, duplicate removal, and automated formatting.
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Wrangling](https://img.shields.io/badge/Wrangling-6366F1?style=flat-square)
-- Standardizes raw CSV inputs for analytics workflows
-- Identifies missing entries and structural anomalies
-- Reusable automated cleaning pipeline
 
 ---
+
+<br />
 
 <div align="center">
 
@@ -157,15 +202,15 @@ Modular Python utility scripts focused on dataset preparation, missing value imp
 <br />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishita1306&show_icons=true&theme=catppuccin_latte&title_color=7C3AED&text_color=475569&icon_color=6366F1&bg_color=ffffff00&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishita1306&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=6B7280" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita1306&layout=compact&theme=catppuccin_latte&title_color=7C3AED&text_color=475569&bg_color=ffffff00&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita1306&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=6B7280" alt="Top Languages" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishita1306&theme=transparent&hide_border=true&title_color=7C3AED&text_color=475569&icon_color=6366F1" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishita1306&theme=transparent&hide_border=true&title_color=7C3AED&text_color=6B7280&icon_color=7C3AED" alt="Streak Stats" />
 </p>
 
 <br />
@@ -174,18 +219,13 @@ Modular Python utility scripts focused on dataset preparation, missing value imp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishita1306&theme=github-light&color=7c3aed&hide_border=true" alt="Activity Graph" width="95%" />
 </p>
 
-<!-- 
-  Contribution Snake Setup Instructions:
-  1. Create file `.github/workflows/snake.yml`
-  2. Use Platane/snk action to generate output to `output` branch.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ishita1306/Ishita1306/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
 </div>
 
+<br />
+
 ---
+
+<br />
 
 <div align="center">
 
