@@ -156,20 +156,6 @@ Proficient in Python, SQL, Power BI, and Excel, I approach analytical challenges
 
 <div align="center">
 
-## GitHub Activity
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishita1306&theme=transparent&hide_border=true&title_color=7C3AED&text_color=6B7280&icon_color=7C3AED" alt="Streak Stats" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishita1306&theme=github-light&color=7c3aed&hide_border=true" alt="Activity Graph" width="95%" />
-</p>
-
 </div>
 
 ---
